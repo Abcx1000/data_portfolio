@@ -1,0 +1,9 @@
+SELECT
+  `continent`,
+  `location`,
+  `date`,
+  `population`,
+  `new_vaccinations`,
+  `cumulative_people_vaccinated`
+FROM
+  `portfolio`.`percentage_pop_vaccinated`;
